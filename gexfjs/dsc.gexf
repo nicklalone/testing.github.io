@@ -1,0 +1,1806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2018-11-04">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="v-color" title="Color" type="string"></attribute>
+      <attribute id="v-shape" title="Shape" type="string"></attribute>
+      <attribute id="v-size" title="Size" type="string"></attribute>
+      <attribute id="v-opacity" title="Opacity" type="string"></attribute>
+      <attribute id="v-image file" title="Image File" type="string"></attribute>
+      <attribute id="v-visibility" title="Visibility" type="string"></attribute>
+      <attribute id="v-label" title="Label" type="string"></attribute>
+      <attribute id="v-label fill color" title="Label Fill Color" type="string"></attribute>
+      <attribute id="v-label position" title="Label Position" type="string"></attribute>
+      <attribute id="v-tooltip" title="Tooltip" type="string"></attribute>
+      <attribute id="v-layout order" title="Layout Order" type="string"></attribute>
+      <attribute id="v-x" title="X" type="string"></attribute>
+      <attribute id="v-y" title="Y" type="string"></attribute>
+      <attribute id="v-locked?" title="Locked?" type="string"></attribute>
+      <attribute id="v-polar r" title="Polar R" type="string"></attribute>
+      <attribute id="v-polar angle" title="Polar Angle" type="string"></attribute>
+      <attribute id="v-degree" title="Degree" type="integer"></attribute>
+      <attribute id="v-in-degree" title="In-Degree" type="integer"></attribute>
+      <attribute id="v-out-degree" title="Out-Degree" type="integer"></attribute>
+      <attribute id="v-betweenness centrality" title="Betweenness Centrality" type="double"></attribute>
+      <attribute id="v-closeness centrality" title="Closeness Centrality" type="double"></attribute>
+      <attribute id="v-eigenvector centrality" title="Eigenvector Centrality" type="double"></attribute>
+      <attribute id="v-pagerank" title="PageRank" type="string"></attribute>
+      <attribute id="v-clustering coefficient" title="Clustering Coefficient" type="string"></attribute>
+      <attribute id="v-reciprocated vertex pair ratio" title="Reciprocated Vertex Pair Ratio" type="string"></attribute>
+      <attribute id="v-id" title="ID" type="string"></attribute>
+      <attribute id="v-dynamic filter" title="Dynamic Filter" type="string"></attribute>
+      <attribute id="v-add your own columns here" title="Add Your Own Columns Here" type="string"></attribute>
+      <attribute id="v-top urls in tweet by count" title="Top URLs in Tweet by Count" type="string"></attribute>
+      <attribute id="v-top urls in tweet by salience" title="Top URLs in Tweet by Salience" type="string"></attribute>
+      <attribute id="v-top domains in tweet by count" title="Top Domains in Tweet by Count" type="string"></attribute>
+      <attribute id="v-top domains in tweet by salience" title="Top Domains in Tweet by Salience" type="string"></attribute>
+      <attribute id="v-top hashtags in tweet by count" title="Top Hashtags in Tweet by Count" type="string"></attribute>
+      <attribute id="v-top hashtags in tweet by salience" title="Top Hashtags in Tweet by Salience" type="string"></attribute>
+      <attribute id="v-top words in tweet by count" title="Top Words in Tweet by Count" type="string"></attribute>
+      <attribute id="v-top words in tweet by salience" title="Top Words in Tweet by Salience" type="string"></attribute>
+      <attribute id="v-top word pairs in tweet by count" title="Top Word Pairs in Tweet by Count" type="string"></attribute>
+      <attribute id="v-top word pairs in tweet by salience" title="Top Word Pairs in Tweet by Salience" type="string"></attribute>
+      <attribute id="v-custom menu item text" title="Custom Menu Item Text" type="string"></attribute>
+      <attribute id="v-custom menu item action" title="Custom Menu Item Action" type="string"></attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="e-color" title="Color" type="string"></attribute>
+      <attribute id="e-width" title="Width" type="string"></attribute>
+      <attribute id="e-style" title="Style" type="string"></attribute>
+      <attribute id="e-opacity" title="Opacity" type="string"></attribute>
+      <attribute id="e-visibility" title="Visibility" type="string"></attribute>
+      <attribute id="e-label" title="Label" type="string"></attribute>
+      <attribute id="e-label text color" title="Label Text Color" type="string"></attribute>
+      <attribute id="e-label font size" title="Label Font Size" type="string"></attribute>
+      <attribute id="e-reciprocated?" title="Reciprocated?" type="string"></attribute>
+      <attribute id="e-id" title="ID" type="string"></attribute>
+      <attribute id="e-dynamic filter" title="Dynamic Filter" type="string"></attribute>
+      <attribute id="e-add your own columns here" title="Add Your Own Columns Here" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="500" label="500">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 64"></attvalue>
+          <attvalue for="v-shape" value="Solid Triangle"></attvalue>
+          <attvalue for="v-size" value="20"></attvalue>
+          <attvalue for="v-label" value="DSC 500 - Intro to DSC"></attvalue>
+          <attvalue for="v-x" value="3327.19506835938"></attvalue>
+          <attvalue for="v-y" value="4005.55639648438"></attvalue>
+          <attvalue for="v-degree" value="10"></attvalue>
+          <attvalue for="v-betweenness centrality" value="149.333333"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.019231"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.052681"></attvalue>
+          <attvalue for="v-pagerank" value="3.968173"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="3"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="39.705883"></viz:size>
+        <viz:position x="148.1851" y="153.16525"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Data Science Process" label="Data Science Process">
+        <attvalues>
+          <attvalue for="v-color" value="Green"></attvalue>
+          <attvalue for="v-shape" value="Disk"></attvalue>
+          <attvalue for="v-size" value="15"></attvalue>
+          <attvalue for="v-label" value="Data Science Process"></attvalue>
+          <attvalue for="v-x" value="5019.46240234375"></attvalue>
+          <attvalue for="v-y" value="2273.31323242188"></attvalue>
+          <attvalue for="v-degree" value="1"></attvalue>
+          <attvalue for="v-betweenness centrality" value="0.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.013158"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.026525"></attvalue>
+          <attvalue for="v-pagerank" value="0.487293"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="4"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="31.764706"></viz:size>
+        <viz:position x="344.74026" y="91.17532"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Powerpoint" label="Powerpoint">
+        <attvalues>
+          <attvalue for="v-color" value="Olive"></attvalue>
+          <attvalue for="v-shape" value="Circle"></attvalue>
+          <attvalue for="v-size" value="10"></attvalue>
+          <attvalue for="v-label" value="Powerpoint"></attvalue>
+          <attvalue for="v-x" value="809.433471679688"></attvalue>
+          <attvalue for="v-y" value="4928.84326171875"></attvalue>
+          <attvalue for="v-degree" value="1"></attvalue>
+          <attvalue for="v-betweenness centrality" value="0.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.013158"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.026525"></attvalue>
+          <attvalue for="v-pagerank" value="0.487293"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="5"></attvalue>
+          <attvalue for="v-dynamic filter" value="False"></attvalue>
+        </attvalues>
+        <viz:size value="31.764706"></viz:size>
+        <viz:position x="197.376" y="304.60577"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Storytelling" label="Storytelling">
+        <attvalues>
+          <attvalue for="v-color" value="Green"></attvalue>
+          <attvalue for="v-shape" value="Disk"></attvalue>
+          <attvalue for="v-size" value="15"></attvalue>
+          <attvalue for="v-label" value="Storytelling"></attvalue>
+          <attvalue for="v-x" value="892.26025390625"></attvalue>
+          <attvalue for="v-y" value="3658.74609375"></attvalue>
+          <attvalue for="v-degree" value="1"></attvalue>
+          <attvalue for="v-betweenness centrality" value="0.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.013158"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.026525"></attvalue>
+          <attvalue for="v-pagerank" value="0.487293"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="6"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="31.764706"></viz:size>
+        <viz:position x="122.96735" y="335.67953"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Curiosity" label="Curiosity">
+        <attvalues>
+          <attvalue for="v-color" value="Green"></attvalue>
+          <attvalue for="v-shape" value="Disk"></attvalue>
+          <attvalue for="v-size" value="15"></attvalue>
+          <attvalue for="v-label" value="Curiosity"></attvalue>
+          <attvalue for="v-x" value="5511.80224609375"></attvalue>
+          <attvalue for="v-y" value="5980.912109375"></attvalue>
+          <attvalue for="v-degree" value="3"></attvalue>
+          <attvalue for="v-betweenness centrality" value="32.833333"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.018519"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.079418"></attvalue>
+          <attvalue for="v-pagerank" value="1.09308"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="7"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="32.64706"></viz:size>
+        <viz:position x="255.91046" y="2.8881772"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Detail Oriented" label="Detail Oriented">
+        <attvalues>
+          <attvalue for="v-color" value="Green"></attvalue>
+          <attvalue for="v-shape" value="Disk"></attvalue>
+          <attvalue for="v-size" value="15"></attvalue>
+          <attvalue for="v-label" value="Detail Oriented"></attvalue>
+          <attvalue for="v-x" value="3962.958984375"></attvalue>
+          <attvalue for="v-y" value="7401.9443359375"></attvalue>
+          <attvalue for="v-degree" value="3"></attvalue>
+          <attvalue for="v-betweenness centrality" value="32.833333"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.018519"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.079418"></attvalue>
+          <attvalue for="v-pagerank" value="1.09308"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="8"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="37.058823"></viz:size>
+        <viz:position x="-154.79988" y="74.08566"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Microsoft Word" label="Microsoft Word">
+        <attvalues>
+          <attvalue for="v-color" value="Olive"></attvalue>
+          <attvalue for="v-shape" value="Circle"></attvalue>
+          <attvalue for="v-size" value="10"></attvalue>
+          <attvalue for="v-label" value="Microsoft Word"></attvalue>
+          <attvalue for="v-x" value="3365.18115234375"></attvalue>
+          <attvalue for="v-y" value="5105.6376953125"></attvalue>
+          <attvalue for="v-degree" value="1"></attvalue>
+          <attvalue for="v-betweenness centrality" value="0.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.013158"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.026525"></attvalue>
+          <attvalue for="v-pagerank" value="0.487293"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="9"></attvalue>
+          <attvalue for="v-dynamic filter" value="False"></attvalue>
+        </attvalues>
+        <viz:size value="33.52941"></viz:size>
+        <viz:position x="33.449646" y="179.65594"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Public Presentation" label="Public Presentation">
+        <attvalues>
+          <attvalue for="v-color" value="Green"></attvalue>
+          <attvalue for="v-shape" value="Disk"></attvalue>
+          <attvalue for="v-size" value="15"></attvalue>
+          <attvalue for="v-label" value="Public Presentation"></attvalue>
+          <attvalue for="v-x" value="2028.5751953125"></attvalue>
+          <attvalue for="v-y" value="1709.43383789063"></attvalue>
+          <attvalue for="v-degree" value="1"></attvalue>
+          <attvalue for="v-betweenness centrality" value="0.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.013158"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.026525"></attvalue>
+          <attvalue for="v-pagerank" value="0.487293"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="10"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="30.882353"></viz:size>
+        <viz:position x="404.12933" y="216.98628"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Research Process" label="Research Process">
+        <attvalues>
+          <attvalue for="v-color" value="Green"></attvalue>
+          <attvalue for="v-shape" value="Disk"></attvalue>
+          <attvalue for="v-size" value="15"></attvalue>
+          <attvalue for="v-label" value="Research Process"></attvalue>
+          <attvalue for="v-x" value="6026.453125"></attvalue>
+          <attvalue for="v-y" value="5103.392578125"></attvalue>
+          <attvalue for="v-degree" value="4"></attvalue>
+          <attvalue for="v-betweenness centrality" value="101.433333"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.021739"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.096542"></attvalue>
+          <attvalue for="v-pagerank" value="1.408826"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="11"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="34.411766"></viz:size>
+        <viz:position x="-12.6470585" y="-48.309715"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Academic Posters" label="Academic Posters">
+        <attvalues>
+          <attvalue for="v-color" value="Olive"></attvalue>
+          <attvalue for="v-shape" value="Circle"></attvalue>
+          <attvalue for="v-size" value="10"></attvalue>
+          <attvalue for="v-label" value="Academic Posters"></attvalue>
+          <attvalue for="v-x" value="3290.57202148438"></attvalue>
+          <attvalue for="v-y" value="1175.18273925781"></attvalue>
+          <attvalue for="v-degree" value="1"></attvalue>
+          <attvalue for="v-betweenness centrality" value="0.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.013158"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.026525"></attvalue>
+          <attvalue for="v-pagerank" value="0.487293"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="12"></attvalue>
+          <attvalue for="v-dynamic filter" value="False"></attvalue>
+        </attvalues>
+        <viz:size value="30.882353"></viz:size>
+        <viz:position x="339.94678" y="304.87866"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Asking Questions" label="Asking Questions">
+        <attvalues>
+          <attvalue for="v-color" value="Green"></attvalue>
+          <attvalue for="v-shape" value="Disk"></attvalue>
+          <attvalue for="v-size" value="15"></attvalue>
+          <attvalue for="v-label" value="Asking Questions"></attvalue>
+          <attvalue for="v-x" value="6135.2314453125"></attvalue>
+          <attvalue for="v-y" value="2990.3759765625"></attvalue>
+          <attvalue for="v-degree" value="1"></attvalue>
+          <attvalue for="v-betweenness centrality" value="0.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.013158"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.026525"></attvalue>
+          <attvalue for="v-pagerank" value="0.487293"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="13"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="32.64706"></viz:size>
+        <viz:position x="155.41219" y="-146.2886"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="510" label="510">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 64"></attvalue>
+          <attvalue for="v-shape" value="Solid Triangle"></attvalue>
+          <attvalue for="v-size" value="20"></attvalue>
+          <attvalue for="v-label" value="DSC 510 - Intro to Programming"></attvalue>
+          <attvalue for="v-x" value="6866.8388671875"></attvalue>
+          <attvalue for="v-y" value="5601.77587890625"></attvalue>
+          <attvalue for="v-degree" value="8"></attvalue>
+          <attvalue for="v-betweenness centrality" value="98.633333"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.017857"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.048485"></attvalue>
+          <attvalue for="v-pagerank" value="2.974537"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="14"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="43.235294"></viz:size>
+        <viz:position x="109.13985" y="-78.03803"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Python" label="Python">
+        <attvalues>
+          <attvalue for="v-color" value="Blue"></attvalue>
+          <attvalue for="v-shape" value="Solid Square"></attvalue>
+          <attvalue for="v-size" value="15"></attvalue>
+          <attvalue for="v-label" value="Python"></attvalue>
+          <attvalue for="v-x" value="5448.11083984375"></attvalue>
+          <attvalue for="v-y" value="7436.482421875"></attvalue>
+          <attvalue for="v-degree" value="1"></attvalue>
+          <attvalue for="v-betweenness centrality" value="0.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.0125"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.024412"></attvalue>
+          <attvalue for="v-pagerank" value="0.466043"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="15"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="34.411766"></viz:size>
+        <viz:position x="-79.34292" y="93.83203"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Jupyter Notebook" label="Jupyter Notebook">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 192"></attvalue>
+          <attvalue for="v-shape" value="Sphere"></attvalue>
+          <attvalue for="v-size" value="25"></attvalue>
+          <attvalue for="v-label" value="Jupyter Notebook"></attvalue>
+          <attvalue for="v-x" value="9602.486328125"></attvalue>
+          <attvalue for="v-y" value="6296.97119140625"></attvalue>
+          <attvalue for="v-degree" value="1"></attvalue>
+          <attvalue for="v-betweenness centrality" value="0.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.0125"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.024412"></attvalue>
+          <attvalue for="v-pagerank" value="0.466043"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="16"></attvalue>
+          <attvalue for="v-dynamic filter" value="False"></attvalue>
+        </attvalues>
+        <viz:size value="31.764706"></viz:size>
+        <viz:position x="302.22742" y="-129.31532"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Data Manipulation" label="Data Manipulation">
+        <attvalues>
+          <attvalue for="v-color" value="Green"></attvalue>
+          <attvalue for="v-shape" value="Disk"></attvalue>
+          <attvalue for="v-size" value="15"></attvalue>
+          <attvalue for="v-label" value="Data Manipulation"></attvalue>
+          <attvalue for="v-x" value="8740.439453125"></attvalue>
+          <attvalue for="v-y" value="2670.41845703125"></attvalue>
+          <attvalue for="v-degree" value="1"></attvalue>
+          <attvalue for="v-betweenness centrality" value="0.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.012195"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.017124"></attvalue>
+          <attvalue for="v-pagerank" value="0.465745"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="26"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="31.764706"></viz:size>
+        <viz:position x="187.33684" y="-354.75473"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="JSON" label="JSON">
+        <attvalues>
+          <attvalue for="v-color" value="Purple"></attvalue>
+          <attvalue for="v-shape" value="Solid Diamond"></attvalue>
+          <attvalue for="v-size" value="15"></attvalue>
+          <attvalue for="v-label" value="JSON"></attvalue>
+          <attvalue for="v-x" value="7889.9248046875"></attvalue>
+          <attvalue for="v-y" value="2104.76684570313"></attvalue>
+          <attvalue for="v-id" value="29"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="30.882353"></viz:size>
+        <viz:position x="428.72226" y="-71.733795"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="PyCharm" label="PyCharm">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 192"></attvalue>
+          <attvalue for="v-shape" value="Sphere"></attvalue>
+          <attvalue for="v-size" value="25"></attvalue>
+          <attvalue for="v-label" value="PyCharm"></attvalue>
+          <attvalue for="v-x" value="8255.626953125"></attvalue>
+          <attvalue for="v-y" value="7765.52099609375"></attvalue>
+          <attvalue for="v-degree" value="1"></attvalue>
+          <attvalue for="v-betweenness centrality" value="0.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.0125"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.024412"></attvalue>
+          <attvalue for="v-pagerank" value="0.466043"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="17"></attvalue>
+          <attvalue for="v-dynamic filter" value="False"></attvalue>
+        </attvalues>
+        <viz:size value="31.764706"></viz:size>
+        <viz:position x="311.75912" y="-208.95483"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Anaconda" label="Anaconda">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 192"></attvalue>
+          <attvalue for="v-shape" value="Sphere"></attvalue>
+          <attvalue for="v-size" value="25"></attvalue>
+          <attvalue for="v-label" value="Anaconda"></attvalue>
+          <attvalue for="v-x" value="9802.62890625"></attvalue>
+          <attvalue for="v-y" value="5562.130859375"></attvalue>
+          <attvalue for="v-degree" value="1"></attvalue>
+          <attvalue for="v-betweenness centrality" value="0.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.0125"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.024412"></attvalue>
+          <attvalue for="v-pagerank" value="0.466043"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="18"></attvalue>
+          <attvalue for="v-dynamic filter" value="False"></attvalue>
+        </attvalues>
+        <viz:size value="31.764706"></viz:size>
+        <viz:position x="198.21867" y="-264.07745"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Searching Documentation" label="Searching Documentation">
+        <attvalues>
+          <attvalue for="v-color" value="Green"></attvalue>
+          <attvalue for="v-shape" value="Disk"></attvalue>
+          <attvalue for="v-size" value="15"></attvalue>
+          <attvalue for="v-label" value="Searching Documents"></attvalue>
+          <attvalue for="v-x" value="8879.2685546875"></attvalue>
+          <attvalue for="v-y" value="6922.75244140625"></attvalue>
+          <attvalue for="v-degree" value="2"></attvalue>
+          <attvalue for="v-betweenness centrality" value="5.5"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.014286"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.052893"></attvalue>
+          <attvalue for="v-pagerank" value="0.755787"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="19"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="31.764706"></viz:size>
+        <viz:position x="283.75287" y="-281.32935"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="520" label="520">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 64"></attvalue>
+          <attvalue for="v-shape" value="Solid Triangle"></attvalue>
+          <attvalue for="v-size" value="20"></attvalue>
+          <attvalue for="v-label" value="DSC 520 - Statistics"></attvalue>
+          <attvalue for="v-x" value="7197.16259765625"></attvalue>
+          <attvalue for="v-y" value="3651.74487304688"></attvalue>
+          <attvalue for="v-degree" value="7"></attvalue>
+          <attvalue for="v-betweenness centrality" value="81.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.017241"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.034009"></attvalue>
+          <attvalue for="v-pagerank" value="2.600271"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="20"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="38.823532"></viz:size>
+        <viz:position x="-44.031445" y="-290.78644"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="R" label="R">
+        <attvalues>
+          <attvalue for="v-color" value="Blue"></attvalue>
+          <attvalue for="v-shape" value="Solid Square"></attvalue>
+          <attvalue for="v-size" value="15"></attvalue>
+          <attvalue for="v-label" value="R Programming Language"></attvalue>
+          <attvalue for="v-x" value="4522.8798828125"></attvalue>
+          <attvalue for="v-y" value="5068.15283203125"></attvalue>
+          <attvalue for="v-degree" value="2"></attvalue>
+          <attvalue for="v-betweenness centrality" value="4.133333"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.013889"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.045604"></attvalue>
+          <attvalue for="v-pagerank" value="0.75549"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="21"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="33.52941"></viz:size>
+        <viz:position x="-133.54607" y="-100.04767"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Statistical Inference" label="Statistical Inference">
+        <attvalues>
+          <attvalue for="v-color" value="Red"></attvalue>
+          <attvalue for="v-shape" value="Diamond"></attvalue>
+          <attvalue for="v-size" value="20"></attvalue>
+          <attvalue for="v-label" value="Statistical Inference"></attvalue>
+          <attvalue for="v-x" value="9563.7802734375"></attvalue>
+          <attvalue for="v-y" value="4654.95849609375"></attvalue>
+          <attvalue for="v-degree" value="2"></attvalue>
+          <attvalue for="v-betweenness centrality" value="4.133333"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.013889"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.045604"></attvalue>
+          <attvalue for="v-pagerank" value="0.75549"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="22"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="31.764706"></viz:size>
+        <viz:position x="-135.36104" y="-375.7487"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="Frequentist" label="Frequentist">
+        <attvalues>
+          <attvalue for="v-color" value="Red"></attvalue>
+          <attvalue for="v-shape" value="Diamond"></attvalue>
+          <attvalue for="v-size" value="20"></attvalue>
+          <attvalue for="v-label" value="Frequentist Statistics"></attvalue>
+          <attvalue for="v-x" value="9155.3134765625"></attvalue>
+          <attvalue for="v-y" value="3500.6640625"></attvalue>
+          <attvalue for="v-degree" value="2"></attvalue>
+          <attvalue for="v-betweenness centrality" value="4.133333"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.013889"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.045604"></attvalue>
+          <attvalue for="v-pagerank" value="0.75549"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="23"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="31.764706"></viz:size>
+        <viz:position x="-47.21364" y="-419.6649"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="Baysian" label="Baysian">
+        <attvalues>
+          <attvalue for="v-color" value="Red"></attvalue>
+          <attvalue for="v-shape" value="Diamond"></attvalue>
+          <attvalue for="v-size" value="20"></attvalue>
+          <attvalue for="v-label" value="Baysian Statistics"></attvalue>
+          <attvalue for="v-x" value="9816.63671875"></attvalue>
+          <attvalue for="v-y" value="3954.76513671875"></attvalue>
+          <attvalue for="v-degree" value="1"></attvalue>
+          <attvalue for="v-betweenness centrality" value="0.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.012195"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.017124"></attvalue>
+          <attvalue for="v-pagerank" value="0.465745"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="24"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="31.764706"></viz:size>
+        <viz:position x="40.96518" y="-403.57007"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="Data Camp" label="Data Camp">
+        <attvalues>
+          <attvalue for="v-color" value="Olive"></attvalue>
+          <attvalue for="v-shape" value="Circle"></attvalue>
+          <attvalue for="v-size" value="10"></attvalue>
+          <attvalue for="v-label" value="Data Camp"></attvalue>
+          <attvalue for="v-x" value="6520.2666015625"></attvalue>
+          <attvalue for="v-y" value="930.2734375"></attvalue>
+          <attvalue for="v-degree" value="1"></attvalue>
+          <attvalue for="v-betweenness centrality" value="0.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.012195"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.017124"></attvalue>
+          <attvalue for="v-pagerank" value="0.465745"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="25"></attvalue>
+          <attvalue for="v-dynamic filter" value="False"></attvalue>
+        </attvalues>
+        <viz:size value="30.882353"></viz:size>
+        <viz:position x="126.49364" y="-470.78574"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Markdown" label="Markdown">
+        <attvalues>
+          <attvalue for="v-color" value="Olive"></attvalue>
+          <attvalue for="v-shape" value="Circle"></attvalue>
+          <attvalue for="v-size" value="10"></attvalue>
+          <attvalue for="v-label" value="Markdown"></attvalue>
+          <attvalue for="v-x" value="8097.90380859375"></attvalue>
+          <attvalue for="v-y" value="4580.29931640625"></attvalue>
+          <attvalue for="v-id" value="32"></attvalue>
+          <attvalue for="v-dynamic filter" value="False"></attvalue>
+        </attvalues>
+        <viz:size value="32.64706"></viz:size>
+        <viz:position x="81.84702" y="-293.54788"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="530" label="530">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 64"></attvalue>
+          <attvalue for="v-shape" value="Solid Triangle"></attvalue>
+          <attvalue for="v-size" value="20"></attvalue>
+          <attvalue for="v-label" value="DSC 530"></attvalue>
+          <attvalue for="v-x" value="7219.603515625"></attvalue>
+          <attvalue for="v-y" value="6238.521484375"></attvalue>
+          <attvalue for="v-degree" value="8"></attvalue>
+          <attvalue for="v-betweenness centrality" value="81.033333"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.017857"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.056564"></attvalue>
+          <attvalue for="v-pagerank" value="2.727024"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="27"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="45.882355"></viz:size>
+        <viz:position x="-3.857225" y="-166.37677"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Exploratory Data Analysis" label="Exploratory Data Analysis">
+        <attvalues>
+          <attvalue for="v-color" value="Green"></attvalue>
+          <attvalue for="v-shape" value="Disk"></attvalue>
+          <attvalue for="v-size" value="15"></attvalue>
+          <attvalue for="v-label" value="Exploratory Data Analysis"></attvalue>
+          <attvalue for="v-x" value="3670.580078125"></attvalue>
+          <attvalue for="v-y" value="8304.46875"></attvalue>
+          <attvalue for="v-degree" value="1"></attvalue>
+          <attvalue for="v-betweenness centrality" value="0.0"></attvalue>
+          <attvalue for="v-closeness centrality" value="0.0125"></attvalue>
+          <attvalue for="v-eigenvector centrality" value="0.02848"></attvalue>
+          <attvalue for="v-pagerank" value="0.439745"></attvalue>
+          <attvalue for="v-clustering coefficient" value="0"></attvalue>
+          <attvalue for="v-id" value="28"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="35.294117"></viz:size>
+        <viz:position x="-294.0397" y="50.08958"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="SQL" label="SQL">
+        <attvalues>
+          <attvalue for="v-color" value="Blue"></attvalue>
+          <attvalue for="v-shape" value="Solid Square"></attvalue>
+          <attvalue for="v-size" value="15"></attvalue>
+          <attvalue for="v-label" value="SQL"></attvalue>
+          <attvalue for="v-x" value="9832.5361328125"></attvalue>
+          <attvalue for="v-y" value="7524.76904296875"></attvalue>
+          <attvalue for="v-id" value="30"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="30.882353"></viz:size>
+        <viz:position x="-226.92485" y="-316.5492"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Slack" label="Slack">
+        <attvalues>
+          <attvalue for="v-color" value="Green"></attvalue>
+          <attvalue for="v-shape" value="10"></attvalue>
+          <attvalue for="v-label" value="Slack Chat"></attvalue>
+          <attvalue for="v-x" value="4643.24755859375"></attvalue>
+          <attvalue for="v-y" value="6935.8046875"></attvalue>
+          <attvalue for="v-id" value="33"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="37.941177"></viz:size>
+        <viz:position x="-147.8481" y="1.1502286"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="540" label="540">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 64"></attvalue>
+          <attvalue for="v-shape" value="Solid Triangle"></attvalue>
+          <attvalue for="v-size" value="20"></attvalue>
+          <attvalue for="v-label" value="DSC 540 - Data Prep"></attvalue>
+          <attvalue for="v-x" value="3828.359375"></attvalue>
+          <attvalue for="v-y" value="9670.734375"></attvalue>
+          <attvalue for="v-id" value="34"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="33.52941"></viz:size>
+        <viz:position x="-414.2646" y="-31.103949"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="550" label="550">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 64"></attvalue>
+          <attvalue for="v-shape" value="Solid Triangle"></attvalue>
+          <attvalue for="v-size" value="20"></attvalue>
+          <attvalue for="v-label" value="DSC 550 - Data Mining"></attvalue>
+          <attvalue for="v-x" value="2434.98413085938"></attvalue>
+          <attvalue for="v-y" value="9633.5986328125"></attvalue>
+          <attvalue for="v-id" value="35"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="32.64706"></viz:size>
+        <viz:position x="-451.43268" y="70.51662"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="630" label="630">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 64"></attvalue>
+          <attvalue for="v-shape" value="Solid Triangle"></attvalue>
+          <attvalue for="v-size" value="20"></attvalue>
+          <attvalue for="v-label" value="DSC 630 - Predictive Analytics"></attvalue>
+          <attvalue for="v-x" value="3445.23193359375"></attvalue>
+          <attvalue for="v-y" value="6211.9453125"></attvalue>
+          <attvalue for="v-id" value="36"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="37.941177"></viz:size>
+        <viz:position x="-206.22998" y="120.10381"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="640" label="640">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 64"></attvalue>
+          <attvalue for="v-shape" value="Solid Triangle"></attvalue>
+          <attvalue for="v-size" value="20"></attvalue>
+          <attvalue for="v-label" value="DSC 640 - Data Visualization"></attvalue>
+          <attvalue for="v-x" value="2415.578125"></attvalue>
+          <attvalue for="v-y" value="6480.6923828125"></attvalue>
+          <attvalue for="v-id" value="37"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="40.588234"></viz:size>
+        <viz:position x="-91.66246" y="216.24522"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="650" label="650">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 64"></attvalue>
+          <attvalue for="v-shape" value="Solid Triangle"></attvalue>
+          <attvalue for="v-size" value="20"></attvalue>
+          <attvalue for="v-label" value="DSC 650 - Big Data"></attvalue>
+          <attvalue for="v-x" value="5050.34130859375"></attvalue>
+          <attvalue for="v-y" value="9670.734375"></attvalue>
+          <attvalue for="v-id" value="38"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="34.411766"></viz:size>
+        <viz:position x="-349.79095" y="189.21693"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Apache Spark" label="Apache Spark">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 192"></attvalue>
+          <attvalue for="v-shape" value="Sphere"></attvalue>
+          <attvalue for="v-size" value="25"></attvalue>
+          <attvalue for="v-label" value="Apache Spark"></attvalue>
+          <attvalue for="v-x" value="7188.61083984375"></attvalue>
+          <attvalue for="v-y" value="9571.62890625"></attvalue>
+          <attvalue for="v-id" value="39"></attvalue>
+          <attvalue for="v-dynamic filter" value="False"></attvalue>
+        </attvalues>
+        <viz:size value="30.882353"></viz:size>
+        <viz:position x="-280.65942" y="339.1819"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Inkscape" label="Inkscape">
+        <attvalues>
+          <attvalue for="v-color" value="Olive"></attvalue>
+          <attvalue for="v-shape" value="Circle"></attvalue>
+          <attvalue for="v-size" value="10"></attvalue>
+          <attvalue for="v-label" value="Inkscape"></attvalue>
+          <attvalue for="v-x" value="601.354614257813"></attvalue>
+          <attvalue for="v-y" value="7018.9140625"></attvalue>
+          <attvalue for="v-id" value="40"></attvalue>
+          <attvalue for="v-dynamic filter" value="False"></attvalue>
+        </attvalues>
+        <viz:size value="30.882353"></viz:size>
+        <viz:position x="-16.804962" y="435.27286"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Tableau" label="Tableau">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 192"></attvalue>
+          <attvalue for="v-shape" value="Sphere"></attvalue>
+          <attvalue for="v-size" value="25"></attvalue>
+          <attvalue for="v-label" value="Tableau"></attvalue>
+          <attvalue for="v-x" value="2415.77514648438"></attvalue>
+          <attvalue for="v-y" value="3568.38671875"></attvalue>
+          <attvalue for="v-id" value="41"></attvalue>
+          <attvalue for="v-dynamic filter" value="False"></attvalue>
+        </attvalues>
+        <viz:size value="30.882353"></viz:size>
+        <viz:position x="91.81729" y="430.14487"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Powerbi" label="Powerbi">
+        <attvalues>
+          <attvalue for="v-label" value="Powerbi"></attvalue>
+          <attvalue for="v-x" value="96.1884841918945"></attvalue>
+          <attvalue for="v-y" value="5765.60107421875"></attvalue>
+          <attvalue for="v-id" value="42"></attvalue>
+          <attvalue for="v-dynamic filter" value="False"></attvalue>
+        </attvalues>
+        <viz:size value="30.882353"></viz:size>
+        <viz:position x="-124.70291" y="408.95612"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Pandas" label="Pandas">
+        <attvalues>
+          <attvalue for="v-label" value="Pandas"></attvalue>
+          <attvalue for="v-x" value="5797.8076171875"></attvalue>
+          <attvalue for="v-y" value="8105.3740234375"></attvalue>
+          <attvalue for="v-id" value="43"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="33.52941"></viz:size>
+        <viz:position x="-197.6339" y="-67.78583"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Github" label="Github">
+        <attvalues>
+          <attvalue for="v-color" value="Olive"></attvalue>
+          <attvalue for="v-shape" value="Circle"></attvalue>
+          <attvalue for="v-size" value="10"></attvalue>
+          <attvalue for="v-label" value="Github"></attvalue>
+          <attvalue for="v-x" value="4626.00830078125"></attvalue>
+          <attvalue for="v-y" value="8101.2666015625"></attvalue>
+          <attvalue for="v-id" value="44"></attvalue>
+          <attvalue for="v-dynamic filter" value="False"></attvalue>
+        </attvalues>
+        <viz:size value="36.17647"></viz:size>
+        <viz:position x="-227.86598" y="26.01237"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="680" label="680">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 64"></attvalue>
+          <attvalue for="v-shape" value="Solid Triangle"></attvalue>
+          <attvalue for="v-size" value="20"></attvalue>
+          <attvalue for="v-label" value="DSC 680 - Doing Data Science"></attvalue>
+          <attvalue for="v-x" value="5498.9404296875"></attvalue>
+          <attvalue for="v-y" value="4818.79833984375"></attvalue>
+          <attvalue for="v-id" value="45"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="67.91045" y="-4.612874"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="RStudio" label="RStudio">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 192"></attvalue>
+          <attvalue for="v-shape" value="Sphere"></attvalue>
+          <attvalue for="v-size" value="25"></attvalue>
+          <attvalue for="v-label" value="Rstudio"></attvalue>
+          <attvalue for="v-x" value="4665.64501953125"></attvalue>
+          <attvalue for="v-y" value="3414.61254882813"></attvalue>
+          <attvalue for="v-id" value="47"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="31.764706"></viz:size>
+        <viz:position x="-270.57687" y="-180.15746"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Report Writing" label="Report Writing">
+        <attvalues>
+          <attvalue for="v-label" value="Report Writing"></attvalue>
+          <attvalue for="v-x" value="1499.92517089844"></attvalue>
+          <attvalue for="v-y" value="4312.95703125"></attvalue>
+          <attvalue for="v-id" value="48"></attvalue>
+          <attvalue for="v-dynamic filter" value="True"></attvalue>
+        </attvalues>
+        <viz:size value="31.764706"></viz:size>
+        <viz:position x="-19.172462" y="303.68918"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Pycharm" label="Pycharm">
+        <attvalues>
+          <attvalue for="v-color" value="255, 128, 192"></attvalue>
+          <attvalue for="v-shape" value="Sphere"></attvalue>
+          <attvalue for="v-size" value="25"></attvalue>
+          <attvalue for="v-x" value="7522.05615234375"></attvalue>
+          <attvalue for="v-y" value="321.1484375"></attvalue>
+          <attvalue for="v-id" value="31"></attvalue>
+          <attvalue for="v-dynamic filter" value="False"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="542.0519" y="47.845016"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="680" target="Pycharm">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="127"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="680" target="Report Writing">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="138"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="500" target="Report Writing">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="102"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="630" target="Report Writing">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="101"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="680" target="RStudio" weight="3.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="136"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="630" target="RStudio">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="97"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="520" target="RStudio">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="82"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="680" target="Github">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="135"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="680" target="Pandas">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="134"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="680" target="Powerbi">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="133"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="680" target="Inkscape">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="131"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="680" target="Apache Spark">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="130"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="680" target="Slack">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="129"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="680" target="SQL">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="126"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="680" target="JSON">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="125"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="680" target="Exploratory Data Analysis">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="124"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="680" target="Data Manipulation">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="123"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="680" target="Data Camp">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="122"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="680" target="Baysian">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="121"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="680" target="Frequentist">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="120"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="680" target="Statistical Inference">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="119"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="21" source="680" target="R">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="118"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="680" target="Searching Documentation">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="117"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="23" source="680" target="Anaconda">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="116"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="24" source="680" target="PyCharm">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="115"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="25" source="680" target="Jupyter Notebook">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="114"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="26" source="680" target="Python">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="113"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="27" source="680" target="Asking Questions">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="112"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="28" source="680" target="Academic Posters">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="111"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="29" source="680" target="Research Process">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="110"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="30" source="680" target="Public Presentation">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="109"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="680" target="Detail Oriented">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="107"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="680" target="Curiosity">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="106"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="33" source="680" target="Storytelling">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="105"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="34" source="680" target="Powerpoint">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="104"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="680" target="Data Science Process">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="103"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="36" source="680" target="Tableau" weight="2.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="85"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="37" source="680" target="Markdown" weight="2.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="84"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="38" source="680" target="Microsoft Word" weight="2.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="80"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="39" source="650" target="Github">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="78"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="40" source="640" target="Github">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="77"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="41" source="630" target="Github">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="76"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="42" source="550" target="Github">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="75"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="43" source="530" target="Github">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="74"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="540" target="Github">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="73"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="510" target="Github">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="72"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="540" target="Pandas">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="71"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="530" target="Pandas">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="70"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="510" target="Pandas">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="69"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="640" target="Pandas">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="68"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="640" target="Powerbi">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="65"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="640" target="Tableau">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="64"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="640" target="Inkscape">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="62"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="650" target="Apache Spark">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="61"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="650" target="Detail Oriented">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="95"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="650" target="Exploratory Data Analysis">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="90"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="650" target="Python">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="60"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="650" target="Slack">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="58"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="58" source="640" target="Detail Oriented">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="94"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="59" source="640" target="Exploratory Data Analysis">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="89"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="60" source="640" target="Microsoft Word">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="79"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="61" source="640" target="Python">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="67"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="62" source="640" target="R">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="66"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="63" source="640" target="Powerpoint">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="63"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="64" source="640" target="Storytelling">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="59"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="65" source="640" target="Slack">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="57"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="66" source="630" target="Research Process">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="100"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="67" source="630" target="Microsoft Word">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="99"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="68" source="630" target="Python">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="98"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="69" source="630" target="R">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="96"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="70" source="630" target="Detail Oriented">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="93"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="71" source="630" target="Exploratory Data Analysis">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="88"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="72" source="630" target="Slack">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="56"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="73" source="550" target="Detail Oriented">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="92"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="74" source="550" target="Exploratory Data Analysis">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="87"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="75" source="550" target="Slack">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="55"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="76" source="540" target="Detail Oriented">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="91"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="77" source="540" target="Exploratory Data Analysis">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="86"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="78" source="540" target="Slack">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="54"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="79" source="530" target="Slack">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="53"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="80" source="520" target="Slack">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="52"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="81" source="510" target="Slack">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="51"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="82" source="500" target="Slack">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="50"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="83" source="530" target="SQL">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="44"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="84" source="530" target="Exploratory Data Analysis">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="33"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="85" source="530" target="Markdown">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="49"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="86" source="530" target="PyCharm">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="48"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="87" source="530" target="Asking Questions">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="47"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="88" source="530" target="Anaconda">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="46"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="89" source="530" target="Jupyter Notebook">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="45"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="90" source="530" target="Baysian">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="43"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="91" source="530" target="Python">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="42"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="92" source="530" target="Frequentist">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="41"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="93" source="530" target="Statistical Inference">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="40"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="94" source="530" target="R">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="39"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="95" source="530" target="Research Process" weight="2.0">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="37"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="96" source="530" target="Searching Documentation">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="36"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="97" source="530" target="Detail Oriented">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="35"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="98" source="530" target="Curiosity">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="34"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="99" source="510" target="Markdown">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="83"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="100" source="520" target="Markdown">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="32"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="101" source="520" target="Data Camp">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="29"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="102" source="520" target="Baysian">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="28"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="103" source="520" target="Frequentist">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="27"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="104" source="520" target="Statistical Inference">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="26"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="105" source="520" target="R">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="25"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="106" source="520" target="Data Manipulation">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="31"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="107" source="520" target="Asking Questions">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="30"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="108" source="520" target="Research Process">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="24"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="109" source="510" target="Searching Documentation">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="22"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="110" source="510" target="Anaconda">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="19"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="111" source="510" target="PyCharm">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="18"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="112" source="510" target="JSON">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="17"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="113" source="510" target="Data Manipulation">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="16"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="114" source="510" target="Jupyter Notebook">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="15"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="115" source="510" target="Python">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="14"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="116" source="510" target="Microsoft Word">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="81"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="117" source="510" target="Research Process">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="23"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="118" source="510" target="Detail Oriented">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="21"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="119" source="510" target="Curiosity">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="20"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="120" source="510" target="Data Science Process">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="13"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="121" source="500" target="Asking Questions">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="12"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="122" source="500" target="Academic Posters">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="11"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="123" source="500" target="Research Process">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="10"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="124" source="500" target="Public Presentation">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="9"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="125" source="500" target="Microsoft Word">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="8"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="126" source="500" target="Detail Oriented">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="7"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="127" source="500" target="Curiosity">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="6"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="128" source="500" target="Storytelling">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="5"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="129" source="500" target="Powerpoint">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="4"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="130" source="500" target="Data Science Process">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="e-id" value="3"></attvalue>
+          <attvalue for="e-dynamic filter" value="True"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
