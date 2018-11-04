@@ -92,7 +92,7 @@
                 "nodes": "Nodes",
                 "inLinks": "Inbound Links from:",
                 "outLinks": "Outbound Links to:",
-                "undirLinks": "Undirected links with:",
+                "undirLinks": "This course includes the following:",
                 "lensOn": "Activate lens mode",
                 "lensOff": "Deactivate lens mode",
                 "edgeOn": "Show edges",
